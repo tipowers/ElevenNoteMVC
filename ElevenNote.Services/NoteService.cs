@@ -42,8 +42,7 @@ namespace ElevenNote.Services
                     .Notes
                     .Where(e => e.OwnerId == _userId)
                     .Select(
-                        e =>
-                            new NoteListItem
+                        e => new NoteListItem
                             {
                                 NoteId = e.NoteId,
                                 Title = e.Title,

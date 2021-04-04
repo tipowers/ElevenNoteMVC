@@ -14,3 +14,9 @@ C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Se
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
