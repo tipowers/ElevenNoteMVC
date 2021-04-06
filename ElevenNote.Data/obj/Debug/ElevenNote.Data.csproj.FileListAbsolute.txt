@@ -14,3 +14,6 @@ C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Da
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddedStarOption.resources
