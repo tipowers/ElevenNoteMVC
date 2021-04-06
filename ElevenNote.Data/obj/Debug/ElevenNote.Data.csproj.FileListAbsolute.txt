@@ -17,3 +17,11 @@ C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Da
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddedStarOption.resources
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.dll
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.xml
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.xml
